@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-26T15:45:25Z
-Entry: fix: ensure graceful socket teardown on unexpected process exit
-Sequence: 43/91
+Last updated: 2026-05-27T17:51:45Z
+Entry: refactor: extract reusable helper routines into utility module
+Sequence: 44/91
