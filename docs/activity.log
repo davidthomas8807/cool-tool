@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-07-17T16:10:49Z
-Entry: fix: resolve null pointer exception in stream parser
-Sequence: 70/91
+Last updated: 2026-07-18T14:41:33Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 71/91
